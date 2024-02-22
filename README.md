@@ -1,2 +1,2 @@
-# TLCasparS.github.io
-Hosting projects
+# TicTac
+Tic Tac Toe Game in JavaScript
